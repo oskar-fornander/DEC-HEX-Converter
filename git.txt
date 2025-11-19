@@ -1,0 +1,24 @@
+
+README.md
+LICENSE
+Model A
+    Firmware
+        modelA.ino
+    docs
+        assembly instructions.md
+        schematic.png
+        bom.txt
+    images
+        front.jpg
+        wiring.jpg
+        pcb.jpg
+Model B
+    ...
+Buy
+    pricing.md
+    how_to_order.md
+    shipping.md
+
+Länka till olistad video på youtube:
+[Watch the demo on YouTube](https://youtube.com/....)
+
