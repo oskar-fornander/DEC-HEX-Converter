@@ -1,4 +1,5 @@
-# DEC–HEX CONVERTER, model B
+# DEC–HEX Converter, model B
+
 Byggsats elektronik
 
 Vill du ha ett smidigt sätt att konvertera mellan decimala och hexadecimala värden, och dessutom i form av en fysisk enhet, så ska du skaffa denna! Dessutom får du den som en byggsats med glädjen att löda ihop och montera den själv. 

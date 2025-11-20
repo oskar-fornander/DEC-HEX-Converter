@@ -1,6 +1,6 @@
 # Innehåll
 
-## DEC-HEX Converter model B
+This is the content of the kit for **DEC-HEX Converter model B**.
 
 - [ ] 3D-printat hölje (1st)
 - [ ] Specialdesignad PCB (1st)
