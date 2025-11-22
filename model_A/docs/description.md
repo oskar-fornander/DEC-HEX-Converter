@@ -1,4 +1,5 @@
 # DEC–HEX Converter, Model A
+
 Electronics Kit
 
 Looking for a sleek, physical device to quickly convert between decimal and hexadecimal values? This is the kit for you! You get the satisfaction of soldering and assembling it yourself, turning it into a rewarding and functional project.
