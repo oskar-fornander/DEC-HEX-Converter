@@ -14,11 +14,8 @@ Looking for a sleek, physical device to quickly convert between decimal and hexa
 * Comes with a **3D-printed enclosure**.
 * Delivered as a complete kit with carefully selected, high-quality components, a **pre-programmed microcontroller**, and a custom-designed **PCB**—making for simple assembly and excellent **soldering practice**.
 * The microcontroller (ATtiny85/45) is pre-programmed but can be **re-programmed**. The source code is available on GitHub.
-* All components are well-sorted and packaged in a box.
 
-**Cost: 599 SEK** (Can also be purchased pre-assembled for +500 SEK).
-
-Shipping as a trackable package with Postnord: 59 SEK
+*Read more in `buy.md` for pricing and how to order your own kit.*
 
 (Also check out Model A, which uses seven-segment displays instead of an LCD and involves slightly more soldering.)
 
