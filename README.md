@@ -9,3 +9,15 @@ Read more on each of them in their documentation.
 These are made for hobbyists and gives you an opportunity to practise your soldering skills while making something useful.
 
 ...
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
