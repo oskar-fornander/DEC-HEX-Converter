@@ -11,7 +11,7 @@ All components are **well-sorted** and packaged securely in a box. Comprehensive
 | Model | Kit Price | Pre-assembled Price |
 | :---: | :---: | :---: |
 | Model A | **599 SEK** | 1099 SEK (Kit + 500 SEK) |
-| Model B | **599 SEK** | 1099 SEK (Kit + 500 SEK) |
+| Model B | **599 SEK** |  999 SEK (Kit + 400 SEK) |
 
 Shipping within Sweden is handled by Postnord as a trackable package for **59 SEK**.
 
@@ -35,4 +35,4 @@ To place your order, please choose one of the options below:
 * This is a **hobby project**, and I offer no formal guarantee. However, please contact me immediately if you encounter any problems with the unit or the assembly process.
 * **Good luck and much joy** with your new converter!
 
-/Oskar Fornander, 2025
+/Oskar Fornander
