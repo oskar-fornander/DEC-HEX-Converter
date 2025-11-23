@@ -22,9 +22,9 @@ Detta är innehållet i byggsatsen för **DEC-HEX Converter, model A**.
 - [ ] Kondensator (keramisk) 10uF (1st)
 - [ ] Kondensator (keramisk) 100nF (6st)
 - [ ] Kondensator (keramisk) 10nF (2st)
-- [ ] Motstånd 470Ω (35st)
-- [ ] Motstånd 10kΩ (6st)
-- [ ] Motstånd 560kΩ (1st)
+- [ ] Motstånd 470Ω (35st) (gul-lila-brun)
+- [ ] Motstånd 10kΩ (6st) (brun-svart-orange)
+- [ ] Motstånd 560kΩ (1st) (grön-blå-gul)
 - [ ] Diod (1N5819) (1st)
 
 

@@ -1,6 +1,6 @@
 # Content
 
-This is the content of the kit for **DEC-HEX Converter model B**.
+This is the content of the kit for **DEC-HEX Converter, model B**.
 
 - [ ] 3D printed enclosure (1pc)
 - [ ] Custom designed PCB (1pc)
@@ -21,7 +21,7 @@ This is the content of the kit for **DEC-HEX Converter model B**.
 - [ ] Capacitor (ceramic) 1uF (2pcs)
 - [ ] Capacitor (ceramic) 100nF (1pc)
 - [ ] Capacitor (ceramic) 10nF (2pcs)
-- [ ] Resistor 1kΩ (1pc)
-- [ ] Resistor 10kΩ (5pcs)
-- [ ] Resistor 100kΩ (1pc)
+- [ ] Resistor 1kΩ (1pc) (brown-black-red)
+- [ ] Resistor 10kΩ (5pcs) (brown-black-orange)
+- [ ] Resistor 100kΩ (1pc) (brown-black-yellow)
 

@@ -21,7 +21,7 @@ Detta är innehållet i byggsatsen för **DEC-HEX Converter, model B**.
 - [ ] Kondensator (keramisk) 1uF (2st)
 - [ ] Kondensator (keramisk) 100nF (1st)
 - [ ] Kondensator (keramisk) 10nF (2st)
-- [ ] Motstånd 1kΩ (1st)
-- [ ] Motstånd 10kΩ (5st)
-- [ ] Motstånd 100kΩ (1st)
+- [ ] Motstånd 1kΩ (1st) (brown-black-red)
+- [ ] Motstånd 10kΩ (5st) (brown-black-orange)
+- [ ] Motstånd 100kΩ (1st) (brown-black-yellow)
 
