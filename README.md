@@ -39,45 +39,43 @@ The DEC–HEX Converter comes in two variants, catering to different preferences
 This repository is organized into specific directories for each model. All project files, documentation, and source code are provided below.
 
 * **General Files:** Find pricing, licenses, and the Swedish documentation entry point.
-* **Model-Specific:** Documentation, hardware files, and firmware are located within the dedicated `/model_A/` and `/model_B/` directories.
+* **Model-Specific:** Documentation, hardware files, and firmware are located within the dedicated `/model_a/` and `/model_b/` directories.
 
 ---
 
-### Model A Files (`/model_A/`)
+### Model A Files (`/model_a/`)
 
 The following files are unique to the **seven-segment display** model:
 
 | Document/File | Content Description | Path (Click to View) |
 | :--- | :--- | :--- |
-| **Firmware (.ino)** | The Arduino source code for the microcontroller. | [model\_A.ino](model_A/model_A.ino) |
-| **Assembly Guide** | Step-by-step instructions for soldering and assembly. | [assembly\_instructions.md](model_A/docs/assembly_instructions.md) |
-| **Description** | Detailed feature list and specifications for Model A. | [description.md](model_A/docs/description.md) |
-| **Parts List (BOM)** | Full Bill of Materials listing all required components. | [parts\_list.md](model_A/docs/parts_list.md) |
-| **Schematics (PDF)** | Detailed hardware circuit diagram. | [schematics.pdf](model_A/docs/schematics.pdf) |
-| **Images** | Photos and renderings of the PCB and components. | [images/](model_A/images/) |
+| **Firmware (.ino)** | The Arduino source code for the microcontroller. | [model\_a.ino](model_a/model_a.ino) |
+| **Assembly Guide** | Step-by-step instructions for soldering and assembly. | [a\_assembly.md](model_a/docs/a_assembly.md) |
+| **Features & Specs** | Detailed feature list and technical specifications for Model A. | [a\_features\_spec.md](model_a/docs/a_features_spec.md) |
+| **Parts List** | Full Bill of Materials (BOM) listing all required components. | [a\_parts\_list.md](model_a/docs/a_parts_list.md) |
+| **Schematics (PDF)** | Detailed hardware circuit diagram. | [a\_schematic.pdf](model_a/docs/a_schematic.pdf) |
+| **Images** | Photos of the PCB (front/back) and components. | [images/](model_a/images/) |
 
-### Model B Files (`/model_B/`)
+### Model B Files (`/model_b/`)
 
 The following files are unique to the **LCD multi-base display** model:
 
 | Document/File | Content Description | Path (Click to View) |
 | :--- | :--- | :--- |
-| **Firmware (.ino)** | The Arduino source code for the microcontroller. | [model\_B.ino](model_B/model_B.ino) |
-| **Assembly Guide** | Step-by-step instructions for soldering and assembly. | [assembly\_instructions.md](model_B/docs/assembly_instructions.md) |
-| **Description** | Detailed feature list and specifications for Model B. | [description.md](model_B/docs/description.md) |
-| **Parts List (BOM)** | Full Bill of Materials listing all required components. | [parts\_list.md](model_B/docs/parts_list.md) |
-| **Schematics (PDF)** | Detailed hardware circuit diagram. | [schematics.pdf](model_B/docs/schematics.pdf) |
-| **Images** | Photos and renderings of the PCB and components. | [images/](model_B/images/) |
+| **Firmware (.ino)** | The Arduino source code for the microcontroller. | [model\_b.ino](model_b/model_b.ino) |
+| **Assembly Guide** | Step-by-step instructions for soldering and assembly. | [b\_assembly.md](model_b/docs/b_assembly.md) |
+| **Features & Specs** | Detailed feature list and technical specifications for Model B. | [b\_features\_spec.md](model_b/docs/b_features_spec.md) |
+| **Parts List** | Full Bill of Materials (BOM) listing all required components. | [b\_parts\_list.md](model_b/docs/b_parts_list.md) |
+| **Schematics (PDF)** | Detailed hardware circuit diagram. | [b\_schematic.pdf](model_b/docs/b\_schematic.pdf) |
+| **Images** | Photos of the PCB (front/back) and components. | [images/](model_b/images/) |
 
 ### General Project Files
 
 | File | Content Description | Path (Click to View) |
 | :--- | :--- | :--- |
-| **Buy Guide** | Information on pricing and how to order your kit. | [buy.md](buy.md) |
+| **Order Guide** | Information on pricing and how to order your kit. | [ordering.md](ordering.md) |
 | **Swedish Docs** | Entry point for all project documentation in Swedish. | [sv/](sv/README.md) |
-| **License** | Software and hardware license information. | [LICENSE.txt](LICENSE.txt) |
-
-
+| **License** | Software and hardware license information. | [LICENSE.md](LICENSE.md) |
 ---
 
 **Interested in purchasing a kit?** Read more in our [**Ordering Guide**](BUY.md)!
