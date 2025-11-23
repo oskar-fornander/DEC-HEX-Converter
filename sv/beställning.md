@@ -1,38 +1,38 @@
-# How to purchase your DEC–HEX Converter kit
+# Så köper du din DEC–HEX Converter byggsats
 
-Ready to start building? You can buy a complete kit for this rewarding electronics project today!
+Redo att börja bygga? Du kan köpa ett komplett kit till detta givande elektronikprojekt redan idag!
 
-All components are **well-sorted** and packaged securely in a box. Comprehensive **documentation**, including assembly instructions and source code, is available here on GitHub. The units can also be purchased pre-assembled.
+Alla komponenter är **välsorterade** och säkert packade i en kartong. Omfattande **dokumentation**, inklusive monteringsanvisningar och källkod, finns tillgänglig här på GitHub. Enheterna kan även köpas färdigmonterade.
 
-*Note: You can find detailed specifications for both Model A and Model B in the dedicated documentation pages on GitHub.*
+*Obs: Detaljerade specifikationer för både Modell A och Modell B hittar du på de dedikerade dokumentsidorna på GitHub.*
 
-## Pricing
+## Priser
 
-| Model | Kit Price | Pre-assembled Price |
+| Modell | Pris Byggsats | Pris Färdigmonterad |
 | :---: | :---: | :---: |
-| Model A | **599 SEK** | 1099 SEK (Kit + 500 SEK) |
-| Model B | **599 SEK** |  999 SEK (Kit + 400 SEK) |
+| Modell A | **599 SEK** | 1099 SEK (Byggsats + 500 SEK) |
+| Modell B | **599 SEK** | 999 SEK (Byggsats + 400 SEK) |
 
-Shipping within Sweden is handled by Postnord as a trackable package for **59 SEK**.
+Frakt inom Sverige sker som spårbart paket med Postnord för **59 SEK**.
 
-## How to Order
+## Så beställer du
 
-To place your order, please choose one of the options below:
+För att göra din beställning, välj ett av alternativen nedan:
 
-1.  **Direct Email Order:** Send an email to [DITT E-POSTADRESS HÄR] with the following information:
-    * Which model(s) you wish to purchase (Model A, Model B, or both).
-    * Whether you want the kit or a pre-assembled unit.
-    * Your full name and shipping address.
+1.  **Beställning via E-post:** Skicka ett e-postmeddelande till [DITT E-POSTADRESS HÄR] med följande information:
+    * Vilken eller vilka modeller du vill köpa (modell A, modell B, eller båda).
+    * Om du vill ha byggsatsen eller en färdigmonterad enhet.
+    * Ditt fullständiga namn och leveransadress.
 
-    I will respond with a confirmation and payment instructions (e.g., Swish or Bank Transfer).
+    Jag svarar med en bekräftelse och betalningsinstruktioner (t.ex. Swish eller Banköverföring).
 
-2.  **Purchase via [E-HANDELSPLATTFORM/TRADERA/ETSY HÄR]:** You can also find my listings and complete the purchase directly through [Namn på plattformen].
+2.  **Köp via [E-HANDELSPLATTFORM/TRADERA/ETSY HÄR]:** Du kan också hitta mina annonser och slutföra köpet direkt via [Namn på plattformen].
 
 ---
 
-**Important Notes:**
+**Viktig information:**
 
-* This is a **hobby project**, and I offer no formal guarantee. However, please contact me immediately if you encounter any problems with the unit or the assembly process.
-* **Good luck and much joy** with your new converter!
+* Detta är ett **hobbyprojekt**, och jag lämnar ingen formell garanti. Vänligen kontakta mig dock direkt om du stöter på problem med enheten eller monteringsprocessen.
+* **Lycka till och stor glädje** med din nya DEC-HEX Converter!
 
 /Oskar Fornander
