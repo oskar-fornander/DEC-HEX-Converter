@@ -16,7 +16,7 @@ Looking for a sleek, physical device to quickly convert between decimal and hexa
 * Delivered as a complete kit with carefully selected, high-quality components, a **pre-programmed microcontroller**, and a custom-designed **PCB**—making for simple assembly and excellent **soldering practice**.
 * The microcontroller (ATtiny85/45) is pre-programmed but can be **re-programmed**. The source code is available on GitHub.
 
-*Read more in `buy.md` for pricing and how to order your own kit.*
+*Read more in [**ordering.md**](../../ordering.md) for pricing and how to order your own kit.*
 
 (Also check out Model B, which uses an LCD instead of seven-segment displays and shows binary values as well, but requires slightly less soldering.)
 

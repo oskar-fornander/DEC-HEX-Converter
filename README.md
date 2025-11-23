@@ -4,7 +4,7 @@ This repository contains the firmware, hardware design, and comprehensive docume
 
 **Quick Navigation:**
 * [**Documentation in Swedish**](sv/README.md)
-* **Ready to Buy?** See our [**Ordering Guide**](BUY.md)
+* **Ready to Buy?** See our [**Ordering Guide**](ordering.md)
 
 ## 💡 Key Features (Common to Both Models)
 
@@ -64,7 +64,7 @@ The following files are unique to the **LCD multi-base display** model:
 | :--- | :--- | :--- |
 | **Firmware (.ino)** | The Arduino source code for the microcontroller. | [model\_b.ino](model_b/model_b.ino) |
 | **Assembly Guide** | Step-by-step instructions for soldering and assembly. | [b\_assembly.md](model_b/docs/b_assembly.md) |
-| **Specification** | Detailed feature list and technical specifications for Model B. | [b\_spec.md](model_b/docs/a_spec.md) |
+| **Specification** | Detailed feature list and technical specifications for Model B. | [b\_spec.md](model_b/docs/b_spec.md) |
 | **Parts List** | Full Bill of Materials (BOM) listing all included components. | [b\_parts\_list.md](model_b/docs/b_parts_list.md) |
 | **Schematics (PDF)** | Detailed hardware circuit diagram. | [b\_schematic.pdf](model_b/docs/b\_schematic.pdf) |
 | **Images** | Photos of the parts and the assemlbe unit. | [images/](model_b/images/) |
@@ -78,7 +78,7 @@ The following files are unique to the **LCD multi-base display** model:
 | **License** | Software and hardware license information. | [LICENSE.md](LICENSE.md) |
 ---
 
-**Interested in purchasing a kit?** Read more in the [**Ordering Guide**](BUY.md)!
+**Interested in purchasing a kit?** Read more in the [**Ordering Guide**](ordering.md)!
 
 ---
 
