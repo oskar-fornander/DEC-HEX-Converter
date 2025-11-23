@@ -1,41 +1,58 @@
-# DEC-HEX Converter
+# DEC–HEX Converter: Byggsats Elektronik (Modell A & B)
 
-*> Svensk dokumentation finns i `/sv/`*
+Denna *repository* innehåller *firmware*, *hardware-design* och komplett dokumentation för **DEC–HEX Converter**, ett roligt och funktionellt byggsats-projekt. Syftet är att ge hobbylödare en chans att öva sina lödskunskaper samtidigt som de skapar ett användbart fysiskt verktyg för talbasomvandling.
 
-This repository contains the firmware, hardware design and build instructions for two DIY calculator kits that convert between decimal and hexadecimal values.
+**Snabblänkar:**
+* [**Ready for the English documentation?**](README.md)
+* **Vill du köpa?** Se vår [**Beställningsguide**](BUY.md)
 
-Vrid för att ställa in ett tal i decimal eller hexadecimal form och läs av värdet i andra formen. Tryck för att nollställa. Läs mer om dem båda i respektive dokumentation.
+## 💡 Gemensamma Huvudfunktioner
 
+DEC–HEX Converter är byggd kring ett enkelt och taktilt gränssnitt:
 
-These are made for hobbyists and gives you an opportunity to practise your soldering skills while making something useful.
+* **Snabb Konvertering:** Omvandla snabbt mellan olika talbaser (Decimal, Hexadecimal, och Binär/Oktal beroende på modell).
+* **Rotationsenkoder:** Använd den responsiva och exakta rotationsenkodern för att öka/minska värden. Den ger tydlig taktil *feedback* med fasta steg.
+* **Intuitiv Styrning:** **Vrid** för att räkna uppåt/nedåt, och **Tryck** för att nollställa räkneverket.
+* **Hjärnan:** Båda enheterna använder den pålitliga **mikrokontrollern ATtiny85/45** för all bearbetning.
+* **Inbyggnadslåda:** Elektroniken monteras i en stabil **3D-printad inbyggnadslåda**.
+* **Byggsatsen:** Levereras som ett komplett kit med ett **specialdesignat kretskort (PCB)**, alla nödvändiga komponenter och en **förprogrammerad mikrokontroller** – utmärkt för att öva **lödning**.
+* **Anpassning:** Mikrokontrollern är förprogrammerad men kan enkelt **programmeras om**. Källkoden finns tillgänglig i denna *repository*.
 
+## 🧰 De Två Modellerna
 
+DEC–HEX Converter finns i två varianter, anpassade efter olika önskemål kring displaytyp och lödkomplexitet:
 
-Byggsats elektronik
+### Modell A: Den Klassiska Displayen
+* Visar värden med ljusa, klassiska **sjusegmentdisplayer**.
+* Konverterar mellan **Decimal** och **Hexadecimal**.
+* Har en **dedikerad strömbrytare** och ett strömsparläge.
+* *Innebär något mer lödning (använder skiftregister för att driva displayerna).*
 
-Vill du ha ett smidigt sätt att konvertera mellan decimala och hexadecimala värden, och dessutom i form av en fysisk enhet, så ska du skaffa denna! Dessutom får du den som en byggsats med glädjen att löda ihop och montera den själv. 
+### Modell B: Multi-Bas Displayen
+* Visar värden på en **LCD (Liquid Crystal Display)**.
+* Konverterar mellan **Decimal**, **Hexadecimal** och **Binär**.
+* **Ingen strömbrytare**; använder ett *ultra-low-power* viloläge och vaknar omedelbart när vredet vrids eller trycks in.
+* *Innebär något mindre lödning.*
 
-- **Snabb konvertering** mellan decimala och hexadecimala tal – åt båda håll.
-- **Rotationsenkodern** ger taktil feedback och är responsiv och exakt, med fasta steg för varje värde. 
-- **Vrid** för att räkna uppåt/nedåt och **tryck** för att nollställa räkneverket.
-- Värden visas samtidigt i decimal och hexadecimal form med **sjusegmentdisplayer** (färgen på displayerna kan vara en annan än på bilderna).
-- Drivs av ett par **AAA-batterier**.
-- Hjärnan är **mikrokontrollern ATtiny85/45**.
-- Monteras i en **3D-printad inbyggnadslåda**.
-- Kommer som en byggsats med noggrant utvalda delar, **förprogrammerad mikrokontroller** och **specialdesignad pcb** – enkel montering och en god övning för att löda.
-- Mikrokontrollern (ATtiny85/45) är förprogrammerad men kan också **programmeras om**. Koden finns tillgänglig på GitHub.
-- Levereras med alla komponenter välsorterade och packeterade i en kartong.
-- Finns i två varianter (läs mer om dem båda i respektive dokumentation):
-    - model A: sjusegmentdisplayer
-    - model B: lcd
+## 📂 Innehåll i *Repositoryn*
 
-Läs mer om hur du kan köpa detta kit: ....
+Denna GitHub *repository* tillhandahåller allt du behöver för att bygga, modifiera och förstå DEC–HEX Converter:
 
+| Katalog/Fil | Beskrivning av Innehåll |
+| :--- | :--- |
+| `/firmware` | Källkod och kompilerade filer för ATtiny85/45 mikrokontrollern. |
+| `/hardware` | PCB designfiler (Scheman, Layouter) och komponentlista (BOM). |
+| `/enclosure` | 3D-modeller (STL-filer) för de printade inbyggnadslådorna för både Modell A och B. |
+| `/docs` | Detaljerade monteringsanvisningar och användarguider. |
+| **`BUY.md`** | Information om priser och hur du beställer din byggsats. |
+| **`README.md`** | Projektintroduktion och dokumentation på engelska. |
 
-/Oskar Fornander, 2025
+---
 
-(Detta är ett hobbyprojekt och jag lämnar ingen garanti, men ta kontakt om du får problem med enheten.)
+**Intresserad av att köpa en byggsats?** Läs mer i vår [**Beställningsguide**](BUY.md)!
 
+---
 
+> **En anmärkning om garanti:** Detta är ett hobbyprojekt. Även om jag strävar efter hög kvalitet, lämnar jag ingen formell garanti. Vänligen kontakta mig direkt om du stöter på problem med enheten eller monteringsprocessen.
 
-
+/Oskar Fornander
