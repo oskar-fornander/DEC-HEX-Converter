@@ -1,6 +1,6 @@
 # Innehåll
 
-This is the content of the kit for **DEC-HEX Converter model A**. 
+Detta är innehållet i byggsatsen för **DEC-HEX Converter, model A**.
 
 - [ ] 3D-printat hölje (1st)
 - [ ] Specialdesignad PCB (1st)
