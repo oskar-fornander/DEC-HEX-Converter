@@ -51,10 +51,10 @@ The following files are unique to the **seven-segment display** model:
 | :--- | :--- | :--- |
 | **Firmware (.ino)** | The Arduino source code for the microcontroller. | [model\_a.ino](model_a/model_a.ino) |
 | **Assembly Guide** | Step-by-step instructions for soldering and assembly. | [a\_assembly.md](model_a/docs/a_assembly.md) |
-| **Features & Specs** | Detailed feature list and technical specifications for Model A. | [a\_features\_spec.md](model_a/docs/a_features_spec.md) |
-| **Parts List** | Full Bill of Materials (BOM) listing all required components. | [a\_parts\_list.md](model_a/docs/a_parts_list.md) |
+| **Specification** | Detailed feature list and technical specifications for Model A. | [a\_spec.md](model_a/docs/a_spec.md) |
+| **Parts List** | Full Bill of Materials (BOM) listing all included components. | [a\_parts\_list.md](model_a/docs/a_parts_list.md) |
 | **Schematics (PDF)** | Detailed hardware circuit diagram. | [a\_schematic.pdf](model_a/docs/a_schematic.pdf) |
-| **Images** | Photos of the PCB (front/back) and components. | [images/](model_a/images/) |
+| **Images** | Photos of the parts and the assemlbe unit. | [images/](model_a/images/) |
 
 ### Model B Files (`/model_b/`)
 
@@ -64,10 +64,10 @@ The following files are unique to the **LCD multi-base display** model:
 | :--- | :--- | :--- |
 | **Firmware (.ino)** | The Arduino source code for the microcontroller. | [model\_b.ino](model_b/model_b.ino) |
 | **Assembly Guide** | Step-by-step instructions for soldering and assembly. | [b\_assembly.md](model_b/docs/b_assembly.md) |
-| **Features & Specs** | Detailed feature list and technical specifications for Model B. | [b\_features\_spec.md](model_b/docs/b_features_spec.md) |
-| **Parts List** | Full Bill of Materials (BOM) listing all required components. | [b\_parts\_list.md](model_b/docs/b_parts_list.md) |
+| **Specification** | Detailed feature list and technical specifications for Model B. | [b\_spec.md](model_b/docs/a_spec.md) |
+| **Parts List** | Full Bill of Materials (BOM) listing all included components. | [b\_parts\_list.md](model_b/docs/b_parts_list.md) |
 | **Schematics (PDF)** | Detailed hardware circuit diagram. | [b\_schematic.pdf](model_b/docs/b\_schematic.pdf) |
-| **Images** | Photos of the PCB (front/back) and components. | [images/](model_b/images/) |
+| **Images** | Photos of the parts and the assemlbe unit. | [images/](model_b/images/) |
 
 ### General Project Files
 
@@ -78,7 +78,7 @@ The following files are unique to the **LCD multi-base display** model:
 | **License** | Software and hardware license information. | [LICENSE.md](LICENSE.md) |
 ---
 
-**Interested in purchasing a kit?** Read more in our [**Ordering Guide**](BUY.md)!
+**Interested in purchasing a kit?** Read more in the [**Ordering Guide**](BUY.md)!
 
 ---
 
