@@ -13,7 +13,7 @@ Det är avgörande att följa den rekommenderade lödordningen för att säkerst
 Börja med att löda komponenterna platt mot kretskortet, lämpligen från de lägsta till de högsta.
 
 * **Avkopplingskondensatorer (100nF, 6 st):** Dessa små keramiska kondensatorer ska lödas först. Detta är avgörande för att komma åt att löda dem då de delvis är placerade under IC-socklarna.
-* **IC-socklar (fem DIP-16 och en DIP-8):** Löda socklarna för mikrokontrollern (ATtiny85/45) och skiftregistren (74HC595). Var uppmärksam på **skåran** (orienteringsmarkeringen) på sockeln; den måste matcha markeringen tryckt på kretskortet. Se till att avkopplingskondensatorerna är lödda före detta steg.
+* **IC-socklar (fem DIP-16 och en DIP-8):** Löda socklarna för mikrokontrollern (ATtiny85/45) och skiftregistren (74HC595). Var uppmärksam på skåran (orienteringsmarkeringen) på sockeln; den måste matcha markeringen tryckt på kretskortet. Se till att avkopplingskondensatorerna är lödda före detta steg.
 * **Motstånd:** Löda motstånden, följ markeringarna på kretskortet för deras värden (kontrollera komponentlistan för färgkoder om du är osäker).
 * **Kondensatorer, diod och transistor:** Löda resten av de mindre komponenterna på plats enligt deras värden. Säkerställ att transistorn, dioden och elektrolytkondensatorn placeras med korrekt orientering/polaritet. Se kretskortets markeringar (t.ex. diodens rand, kondensatorns minusben).
 * **Strömbrytare och batterilåda:** Löda kablarna för strömbrytaren och batterilådan, antingen direkt till kretskortet eller till stiftlister.

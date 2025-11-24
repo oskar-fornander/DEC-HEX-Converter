@@ -12,6 +12,7 @@ Detta är innehållet i byggsatsen för **DEC-HEX Converter, model B**.
 - [ ] DIL-hållare (DIP-8) (1st)
 - [ ] ATtiny85/45, förprogrammerad (model B) (1st)
 - [ ] LCD med I2C-kommunikation (1st)
+- [ ] Anslutning för LCD, 4 stift (1st)
 - [ ] Rotationsenkoder (1st)
 - [ ] Ratt till rotationsenkoder (1st)
 - [ ] Stiftlist (4 + 3 stift)

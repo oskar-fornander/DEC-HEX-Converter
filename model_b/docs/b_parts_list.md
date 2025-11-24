@@ -12,6 +12,7 @@ This is the content of the kit for **DEC-HEX Converter, model B**.
 - [ ] DIL socket (DIP-8) (1pc)
 - [ ] ATtiny85/45, pre-programmed (model B) (1pc)
 - [ ] LCD with I2C-communication (1pc)
+- [ ] LCD Jumper Cable, 4-pin (1pc)
 - [ ] Rotary encoder (1pc)
 - [ ] Knob for rotary encoder (1pc)
 - [ ] Pin header (7 pins) (1pc)

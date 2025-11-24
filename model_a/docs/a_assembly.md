@@ -1,6 +1,6 @@
 # Assembly Guide: DEC–HEX Converter, Model A
 
-This guide provides the simple steps required to assemble your Model A kit. Thanks to the custom-designed PCB, the component layout is clearly marked, making this a straightforward build and an excellent **soldering practice** project.
+This guide provides the simple steps required to assemble your Model A kit. Thanks to the custom-designed PCB, the component layout is clearly marked, making this a straightforward build and an excellent soldering practice project.
 
 **Estimated time:** 1–2 hours (depending on soldering experience).
 
@@ -8,7 +8,7 @@ This guide provides the simple steps required to assemble your Model A kit. Than
 
 It is crucial to follow the recommended soldering order to ensure easy access to all pads. Refer to the [**Parts List**](a_parts_list.md) (name and number of pieces) to correctly identify each component. All through-hole components are inserted from the Component Side (the side with the silkscreen markings) and soldered on the reverse side (the Solder Side). All component locations are clearly marked on the Component Side silkscreen.
 
-### 1. Solder all Components, Starting with Low-Profile Parts
+### 1. Solder all Components
 
 Start by soldering components flush to the PCB, typically from shortest to tallest.
 

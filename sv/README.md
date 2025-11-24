@@ -4,7 +4,7 @@ Denna *repository* innehåller *firmware*, *hardware-design* och komplett dokume
 
 **Snabblänkar:**
 * [**Documentation in English**](../README.md)
-* **Redo att köpa?** Se vår [**Beställningsguide**](beställning.md)
+* **Redo att köpa?** Se [**Beställningsguiden**](beställning.md)
 
 ## 💡 Huvudfunktioner (Gemensamma för båda modellerna)
 
