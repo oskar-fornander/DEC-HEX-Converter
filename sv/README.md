@@ -74,8 +74,8 @@ Följande filer är unika för modellen med **LCD-display**:
 | Fil | Beskrivning av innehåll | Sökväg (klicka för att se) |
 | :--- | :--- | :--- |
 | **Beställningsguide** | Information om priser och hur du kan köpa din byggsats. | [beställning.md](beställning.md) |
-| **English Documentation** | Projektdokumentation på engelska. | [../](../README.md) |
-| **Licens** | Information om licens. | [../LICENSE.md](../LICENSE.md) |
+| **English Documentation** | Projektdokumentation på engelska. | [README.md](../README.md) |
+| **Licens** | Information om licens. | [LICENSE.md](../LICENSE.md) |
 
 ---
 
