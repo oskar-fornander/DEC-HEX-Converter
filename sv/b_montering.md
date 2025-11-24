@@ -16,7 +16,7 @@ Börja med att löda komponenterna platt mot kretskortet, lämpligen från de l�
 * **Kondensatorer:** Löda de keramiska kondensatorerna enligt deras värden. Löda elektrolytkondensatorn och säkerställ att den placeras med korrekt orientering/polaritet enligt kretskortets markeringar. Denna kan vinklas ner mot kretskortet för att ta mindre plats på höjden.
 * **Transistor och LDO-regulator**: Löda Transistor och LDO-regulatorn på respektive plats. Notera att de båda använder liknande kapslar; jämför beteckningarna på komponenterna för att skilja dem åt och säkerställ rätt orientering.
 * **IC-sockel (DIP-8):** Löda sockeln för mikrokontrollern (ATtiny85/45). Var uppmärksam på orienteringsmarkeringen på sockeln; den måste matcha markeringen tryckt på kretskortet. 
-* **Rotationsenkoder:** Placera och löda rotationsenkoderns fem stift samt dess fästflikar för att säkra den stadigt.
+* **Rotationsenkoder:** Placera och löda rotationsenkoderns fem stift samt dess fästflikar för att säkra den stadigt. Skruva fast den från framsidan och sätt på ratten.
 * **Stiftlist och batterilåda:** Löda stiftlisten (4 stift) för anslutning av LCD:n. Löda batteriets kablar direkt eller på separat stiftlist. Notera anslutningens polaritet.
 
 ### 2. Sätt i mikrokontroller
@@ -32,7 +32,7 @@ Börja med att löda komponenterna platt mot kretskortet, lämpligen från de l�
 ### 4. Montera kretskort och LCD
 
 * Placera det färdigmonterade kretskortet i huvuddelen av den **3D-printade kapslingen**.
-* Använd två av de medföljande **M3-skruvarna** och **distansbrickorna (2mm)** för att fästa kretskortet säkert i hålen på kapslingen. Distansbrickorna säkerställer korrekt skruvdjup och ger ett säkert fäste för kretskortet.
+* Använd två av de medföljande **M3-skruvarna** och **distansbrickorna (2mm)** för att fästa kretskortet säkert i hålen på kapslingen. Distansbrickorna säkerställer korrekt skruvdjup och ger ett säkert fäste för kretskortet. Skruva fast rotationsenkodern från framsidan och sätt på ratten.
 * Montera LCD:n med fyra av **M3-skruvarna** och **distansbrickorna (5mm)**.
 * Anslut medföljande **kablar (4 stift)** till LCD och PCB. **Viktigt:** Säkerställ korrekt anslutning genom att jämföra tryckt text vid stiften; stiften är i samma ordning på pcb:n även om beteckningarna kan vara olika (VSS = GND, VDD = VCC, SCK = SCL). Felaktig polaritet kan skada komponenter.
 

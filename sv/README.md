@@ -1,6 +1,6 @@
 # DEC–HEX Converter: Elektronikbyggsats (Modell A & B)
 
-Denna *repository* innehåller *firmware*, *hardware-design* och komplett dokumentation för **DEC–HEX Converter**, ett roligt och funktionellt byggsats-projekt. Den är utformad för att ge hobbyister chansen att öva sina lödskunskaper samtidigt som de skapar ett användbart, fysiskt verktyg för omvandling mellan talsystem.
+Denna *repository* innehåller *firmware*, *hardware-design* och komplett dokumentation för **DEC–HEX Converter**, ett roligt och funktionellt byggsats-projekt. Den är utformad för att ge hobbyister chansen att öva sina lödkunskaper samtidigt som de skapar ett användbart, fysiskt verktyg för omvandling mellan talsystem.
 
 **Snabblänkar:**
 * [**Documentation in English**](../README.md)

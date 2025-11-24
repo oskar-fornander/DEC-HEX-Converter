@@ -33,7 +33,7 @@ Börja med att löda komponenterna platt mot kretskortet, lämpligen från de l�
 ### 4. Montera kretskortet
 
 * Placera det färdigmonterade kretskortet i huvuddelen av den **3D-printade kapslingen**.
-* Använd de medföljande **M3-skruvarna** och **distansbrickorna** för att fästa kretskortet säkert i hålen på kapslingen. Distansbrickorna säkerställer korrekt skruvdjup och ger ett säkert fäste för kretskortet.
+* Använd de medföljande **M3-skruvarna** och **distansbrickorna** för att fästa kretskortet säkert i hålen på kapslingen. Distansbrickorna säkerställer korrekt skruvdjup och ger ett säkert fäste för kretskortet. Skruva fast rotationsenkodern från framsidan och sätt på ratten.
 * Montera **strömbrytaren** i sin öppning på kapslingen och anslut dess kablar till strömbrytaren.
 
 ### 5. Stäng kapslingen

@@ -32,7 +32,7 @@ Start by soldering components flush to the PCB, typically from shortest to talle
 ### 4. Mount the PCB and LCD
 
 * Place the assembled PCB into the main part of the **3D-printed enclosure**.
-* Use two of the provided **M3 screws** and **spacers (2mm)** to fasten the PCB securely into the enclosure holes. The spacers ensure proper screw depth and provide a secure mounting for the PCB.
+* Use two of the provided **M3 screws** and **spacers (2mm)** to fasten the PCB securely into the enclosure holes. The spacers ensure proper screw depth and provide a secure mounting for the PCB. Screw the rotary encoder on from the front and put the knob on.
 * Mount the LCD using four of the **M3 screws** and **spacers (5mm)**. 
 * Connect the included **4-pin cable** to the LCD and the PCB. **IMPORTANT:** Ensure the connection is correct by comparing the printed text near the pins. The pins are in the same order on the PCB, even though the labels may differ (VSS = GND, VDD = VCC, SCK = SCL). Incorrect polarity may damage the components.
 

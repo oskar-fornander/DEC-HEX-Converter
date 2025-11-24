@@ -33,7 +33,7 @@ Start by soldering components flush to the PCB, typically from shortest to talle
 ### 4. Mount the PCB
 
 * Place the assembled PCB into the main part of the **3D-printed enclosure**.
-* Use the provided **M3 screws** and **spacers** to fasten the PCB securely to the enclosure standoffs. The spacers ensure proper screw depth and provide a secure mounting for the PCB.
+* Use the provided **M3 screws** and **spacers** to fasten the PCB securely to the enclosure standoffs. The spacers ensure proper screw depth and provide a secure mounting for the PCB. Screw the rotary encoder on from the front and put the knob on.
 * Mount the **Power Switch** in its opening on the enclosure and connect its wires to the switch.
 
 ### 5. Close the Enclosure

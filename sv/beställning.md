@@ -26,6 +26,12 @@ För att göra din beställning, välj ett av alternativen nedan:
 
     Jag svarar med en bekräftelse och betalningsinstruktioner (t.ex. Swish eller Banköverföring).
 
+  Betalning via PayPal: Faktura från PayPal skickas till e-postadress. När du betalar via denna faktura är du automatiskt skyddad av PayPals köpskydd. Vi skickar varan så snart betalningen är bekräftad av PayPal.
+Notera: PayPal debiterar oss en transaktionsavgift (för närvarande ca 3% i Sverige) för att hantera köpet med köpskydd. Denna avgift ingår i produktpriset.
+
+Payment via PayPal: We will send an official PayPal invoice to your email address. By paying this invoice, your purchase is automatically covered by PayPal's comprehensive Buyer Protection. We will ship your order as soon as payment is confirmed by PayPal.
+Note: PayPal charges us a transaction fee (currently approx. 3% in Sweden) to handle the purchase with Buyer Protection. This fee is already included in the stated product price.
+
 2.  **Köp via [E-HANDELSPLATTFORM/TRADERA/ETSY HÄR]:** Du kan också hitta mina annonser och slutföra köpet direkt via [Namn på plattformen].
 
 ---
