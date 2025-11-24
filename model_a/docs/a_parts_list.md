@@ -6,7 +6,7 @@ This is the content of the kit for **DEC-HEX Converter, model A**.
 - [ ] Custom designed PCB (1pc)
 - [ ] Screw M3 (2pcs)
 - [ ] Screw M4 (2pcs)
-- [ ] Washer M3 2mm (2pcs)
+- [ ] 3D-printed spacer M3 2mm (2pcs)
 - [ ] Battery box (3 x AA) (1pc)
 - [ ] Power switsh with wires (1pc)
 - [ ] DIL socket DIP-16 (5pcs)
