@@ -19,7 +19,7 @@ Frakt inom Sverige sker som spårbart paket med Postnord för **59 SEK**.
 
 För att göra din beställning, välj ett av alternativen nedan:
 
-1.  **Beställning via E-post:** Skicka ett e-postmeddelande till [DITT E-POSTADRESS HÄR] med följande information:
+1.  **Beställning via E-post:** Skicka ett e-postmeddelande till [OFDesignSWE+order@gmail.com] med följande information:
     * Vilken eller vilka modeller du vill köpa (modell A, modell B, eller båda).
     * Om du vill ha byggsatsen eller en färdigmonterad enhet.
     * Ditt fullständiga namn och leveransadress.

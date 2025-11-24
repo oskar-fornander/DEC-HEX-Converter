@@ -19,7 +19,7 @@ Shipping within Sweden is handled by Postnord as a trackable package for **59 SE
 
 To place your order, please choose one of the options below:
 
-1.  **Direct Email Order:** Send an email to [DITT E-POSTADRESS HÄR] with the following information:
+1.  **Direct Email Order:** Send an email to [OFDesignSWE+order@gmail.com] with the following information:
     * Which model(s) you wish to purchase (Model A, Model B, or both).
     * Whether you want the kit or a pre-assembled unit.
     * Your full name and shipping address.
