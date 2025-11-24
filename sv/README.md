@@ -49,12 +49,12 @@ Följande filer är unika för modellen med **sjusegmentdisplay**:
 
 | Dokument/fil | Beskrivning av innehåll | Sökväg (klicka för att se) |
 | :--- | :--- | :--- |
-| **Firmware (.ino)** | Arduino källkod för mikrokontrollern. | [model\_a.ino](model_a/model_a.ino) |
-| **Monteringsanvisning** | Steg-för-steg guide för lödning och slutmontering. | [a\_assembly.md](model_a/docs/a_assembly.md) |
-| **Specifikation** | Detaljerad funktionslista och tekniska specifikationer för Modell A. | [a\_spec.md](model_a/docs/a_spec.md) |
-| **Komponentlista (BOM)** | Fullständig lista över alla nödvändiga komponenter. | [a\_parts_list.md](model_a/docs/a_parts_list.md) |
-| **Kretsschema (PDF)** | Detaljerat *hardware* kretsschema. | [a\_schematic.pdf](model_a/docs/a_schematic.pdf) |
-| **Bilder** | Foton på kretskort (fram/bak) och komponenter. | [images/](model_a/images/) |
+| **Firmware (.ino)** | Arduino källkod för mikrokontrollern. | [model\_a.ino](../model_a/model_a.ino) |
+| **Monteringsanvisning** | Steg-för-steg guide för lödning och slutmontering. | [a\_assembly.md](a_montering.md) |
+| **Specifikation** | Detaljerad funktionslista och tekniska specifikationer för Modell A. | [a\_spec.md](a_beskrivning.md) |
+| **Komponentlista (BOM)** | Fullständig lista över alla nödvändiga komponenter. | [a\_parts_list.md](a_komponentlista.md) |
+| **Kretsschema (PDF)** | Detaljerat *hardware* kretsschema. | [a\_schematic.pdf](../model_a/docs/a_schematic.pdf) |
+| **Bilder** | Foton på kretskort (fram/bak) och komponenter. | [images/](../model_a/images/) |
 
 ### Modell B filer (`/model_b/`)
 
@@ -62,20 +62,20 @@ Följande filer är unika för modellen med **LCD-display**:
 
 | Dokument/fil | Beskrivning av innehåll | Sökväg (klicka för att se) |
 | :--- | :--- | :--- |
-| **Firmware (.ino)** | Arduino källkod för mikrokontrollern. | [model\_b.ino](model_b/model_b.ino) |
-| **Monteringsanvisning** | Steg-för-steg guide för lödning och slutmontering. | [b\_assembly.md](model_b/docs/b_assembly.md) |
-| **Specifikation** | Detaljerad funktionslista och tekniska specifikationer för Modell B. | [b\_spec.md](model_b/docs/b_spec.md) |
-| **Komponentlista (BOM)** | Fullständig lista över alla nödvändiga komponenter. | [b\_parts_list.md](model_b/docs/b\_parts_list.md) |
-| **Kretsschema (PDF)** | Detaljerat *hardware* kretsschema. | [b\_schematic.pdf](model_b/docs/b\_schematic.pdf) |
-| **Bilder** | Foton på kretskort (fram/bak) och komponenter. | [images/](model_b/images/) |
+| **Firmware (.ino)** | Arduino källkod för mikrokontrollern. | [model\_b.ino](../model_b/model_b.ino) |
+| **Monteringsanvisning** | Steg-för-steg guide för lödning och slutmontering. | [b\_assembly.md](b_montering.md) |
+| **Specifikation** | Detaljerad funktionslista och tekniska specifikationer för Modell B. | [b\_spec.md](b_beskrivning.md) |
+| **Komponentlista (BOM)** | Fullständig lista över alla nödvändiga komponenter. | [b\_parts_list.md](b_komponentlista.md) |
+| **Kretsschema (PDF)** | Detaljerat *hardware* kretsschema. | [b\_schematic.pdf](../model_b/docs/b_schematic.pdf) |
+| **Bilder** | Foton på kretskort (fram/bak) och komponenter. | [images/](../model_b/images/) |
 
 ### Allmänna Projektfiler (Rotkatalog)
 
 | Fil | Beskrivning av innehåll | Sökväg (klicka för att se) |
 | :--- | :--- | :--- |
-| **Beställningsguide** | Information om priser och hur du kan köpa din byggsats. | [ordering.md](ordering.md) |
-| **Svensk Dokumentation** | Ingången till all projektdokumentation på svenska. | [sv/](sv/README.md) |
-| **Licens** | Information om licens. | [LICENSE.md](LICENSE.md) |
+| **Beställningsguide** | Information om priser och hur du kan köpa din byggsats. | [beställning.md](beställning.md) |
+| **English Documentation** | Projektdokumentation på engelska. | [../](../README.md) |
+| **Licens** | Information om licens. | [../LICENSE.md](../LICENSE.md) |
 
 ---
 
