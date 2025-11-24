@@ -19,11 +19,10 @@ Shipping within Sweden is handled by Postnord as a trackable package for **59 SE
 
 To place your order, please choose one of the options below:
 
-1.  **Direct Email Order:** Send an email to [OFDesignSWE+order@gmail.com] with the following information:
+1.  **Direct Email Order:** Send an email to [OFDesignSWE+order@gmail.com](mailto:OFDesignSWE+order@gmail.com?subject=Order%3A%20DEC-HEX%20Converter%20kit&body=%0D%0A%0D%0AModel%20(A%20or%20B)%3A%20%0D%0A%0D%0AMontage%20(DIY%20kit%20or%20pre-assembled)%3A%20%0D%0A%0D%0ANumber%20of%20units%3A%20%0D%0A%0D%0AName%20and%20Address%3A%20%0D%0A%0D%0AContact%20information%20(e-mail/phone)%3A%20%0D%0A%0D%0A) with the following information:
     * Which model(s) you wish to purchase (Model A, Model B, or both).
     * Whether you want the kit or a pre-assembled unit.
     * Your full name and shipping address.
-
     I will respond with a confirmation and payment instructions (e.g., Swish or Bank Transfer).
 
 2.  **Purchase via [E-HANDELSPLATTFORM/TRADERA/ETSY HÄR]:** You can also find my listings and complete the purchase directly through [Namn på plattformen].

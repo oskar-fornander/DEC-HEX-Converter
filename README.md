@@ -4,7 +4,7 @@ This repository contains the firmware, hardware design, and comprehensive docume
 
 **Quick Navigation:**
 * [**Documentation in Swedish**](sv/README.md)
-* **Ready to Buy?** See our [**Ordering Guide**](ordering.md)
+* **Ready to Buy?** See the [**Ordering Guide**](ordering.md)
 
 ## 💡 Key Features (Common to Both Models)
 
