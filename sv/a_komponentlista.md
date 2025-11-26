@@ -7,7 +7,7 @@ Detta är innehållet i byggsatsen för **DEC-HEX Converter, model A**.
 - [ ] Skruvar M3 (2st)
 - [ ] Skruvar M4 (2st)
 - [ ] 3D-printad distansbricka M3 2mm (2st)
-- [ ] Batterihållare (3 x AA) (1st)
+- [ ] Batterihållare (3 x AAA) (1st)
 - [ ] Strömbrytare med sladdar (1st)
 - [ ] DIL-hållare DIP-16 (5st)
 - [ ] Skiftregister (74HC595) (5st)
