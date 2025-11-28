@@ -27,6 +27,9 @@ To place your order, please choose one of the options below:
 
 2.  **Purchase via [E-HANDELSPLATTFORM/TRADERA/ETSY HÄR]:** You can also find my listings and complete the purchase directly through [Namn på plattformen].
 
+Beställning via Tradera: 658 SEK (599 kr + 59 kr frakt). Priset inkluderar Traderas plattformsavgift och köpskydd.
+Direktbeställning (E-post): 592 SEK (533 kr + 59 kr frakt). Rabatterat pris genom att undvika plattformsavgiften. Betalning via Swish (eller PayPal med dess egna avgifter).
+Viktigt: För direktbeställning gäller PayPals/Swish villkor för betalningssäkerhet.
 ---
 
 **Important Notes:**

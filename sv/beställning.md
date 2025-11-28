@@ -33,7 +33,11 @@ Payment via PayPal: We will send an official PayPal invoice to your email addres
 Note: PayPal charges us a transaction fee (currently approx. 3% in Sweden) to handle the purchase with Buyer Protection. This fee is already included in the stated product price.
 
 2.  **Köp via [E-HANDELSPLATTFORM/TRADERA/ETSY HÄR]:** Du kan också hitta mina annonser och slutföra köpet direkt via [Namn på plattformen].
+Vid köp via Tradera görs ett påslag på ca 10% för att täcka plattformens avgift. Då täcks köpet av Traderas köpskydd.
 
+Beställning via Tradera: 658 SEK (599 kr + 59 kr frakt). Priset inkluderar Traderas plattformsavgift och köpskydd.
+Direktbeställning (E-post): 592 SEK (533 kr + 59 kr frakt). Rabatterat pris genom att undvika plattformsavgiften. Betalning via Swish (eller PayPal med dess egna avgifter).
+Viktigt: För direktbeställning gäller PayPals/Swish villkor för betalningssäkerhet.
 ---
 
 **Viktig information:**
