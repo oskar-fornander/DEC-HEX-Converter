@@ -34,7 +34,7 @@ Börja med att löda komponenterna platt mot kretskortet, lämpligen från de l�
 * Placera det färdigmonterade kretskortet i huvuddelen av den **3D-printade kapslingen**.
 * Använd två av de medföljande **M3-skruvarna** och **distansbrickorna (2mm)** för att fästa kretskortet säkert i hålen på kapslingen. Distansbrickorna säkerställer korrekt skruvdjup och ger ett säkert fäste för kretskortet. Skruva fast rotationsenkodern från framsidan och sätt på ratten.
 * Anslut medföljande **kablar (4 stift)** till LCD och PCB. **Viktigt:** Säkerställ korrekt anslutning genom att jämföra tryckt text vid stiften; stiften är i samma ordning på pcb:n även om beteckningarna kan vara olika (VSS = GND, VDD = VCC, SCK = SCL). Felaktig polaritet kan skada komponenter.
-* Montera LCD:n med fyra av **M3-skruvarna** och **distansbrickorna (5mm)** OBS: se till att kabeln är ansluten till de fyra stiften innan LCD:n placeras på plats.
+* Montera LCD:n med fyra av **M3-skruvarna** och **distansbrickorna (5mm)** Notera att kabeln måste anslutas till de fyra stiften innan LCD:n placeras på plats. För korrekt orientering ska texten på baksidan vara rätt orienterad.
 
 ### 5. Stäng kapslingen
 
