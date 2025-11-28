@@ -11,7 +11,7 @@ Alla komponenter är **välsorterade** och säkert packade i en kartong. Omfatta
 | Modell | Pris byggsats | Pris färdigmonterad |
 | :---: | :---: | :---: |
 | Modell A | **599 SEK** | 1099 SEK (Byggsats + 500 SEK) |
-| Modell B | **599 SEK** | 999 SEK (Byggsats + 400 SEK) |
+| Modell B | **649 SEK** | 1149 SEK (Byggsats + 500 SEK) |
 
 Frakt inom Sverige sker som spårbart paket med Postnord för **59 SEK**.
 
@@ -24,25 +24,15 @@ För att göra din beställning, välj ett av alternativen nedan:
     * Om du vill ha byggsatsen eller en färdigmonterad enhet.
     * Ditt fullständiga namn och leveransadress.
 
-    Jag svarar med en bekräftelse och betalningsinstruktioner (t.ex. Swish eller Banköverföring).
+    Jag svarar med en bekräftelse och betalningsinstruktioner. Betalning sker genom PayPal, en faktura skickas till din mejl. När du betalar via denna faktura är du automatiskt skyddad av PayPals köpskydd. Jag skickar varan så snart betalningen är bekräftad av PayPal. Avgiften för PayPals köpskydd ingår i produktpriset.
 
-  Betalning via PayPal: Faktura från PayPal skickas till e-postadress. När du betalar via denna faktura är du automatiskt skyddad av PayPals köpskydd. Vi skickar varan så snart betalningen är bekräftad av PayPal.
-Notera: PayPal debiterar oss en transaktionsavgift (för närvarande ca 3% i Sverige) för att hantera köpet med köpskydd. Denna avgift ingår i produktpriset.
+2.  Köp på **TRADERA**: Du kan också hitta mina annonser och slutföra köpet direkt via Tradera. Vid köp via Tradera gäller Tradras köpskydd och frakt men ett påslag görs på priset för att täcka plattformens avgift. Det blir alltså billigare med direktbeställning.
 
-Payment via PayPal: We will send an official PayPal invoice to your email address. By paying this invoice, your purchase is automatically covered by PayPal's comprehensive Buyer Protection. We will ship your order as soon as payment is confirmed by PayPal.
-Note: PayPal charges us a transaction fee (currently approx. 3% in Sweden) to handle the purchase with Buyer Protection. This fee is already included in the stated product price.
 
-2.  **Köp via [E-HANDELSPLATTFORM/TRADERA/ETSY HÄR]:** Du kan också hitta mina annonser och slutföra köpet direkt via [Namn på plattformen].
-Vid köp via Tradera görs ett påslag på ca 10% för att täcka plattformens avgift. Då täcks köpet av Traderas köpskydd.
-
-Beställning via Tradera: 658 SEK (599 kr + 59 kr frakt). Priset inkluderar Traderas plattformsavgift och köpskydd.
-Direktbeställning (E-post): 592 SEK (533 kr + 59 kr frakt). Rabatterat pris genom att undvika plattformsavgiften. Betalning via Swish (eller PayPal med dess egna avgifter).
-Viktigt: För direktbeställning gäller PayPals/Swish villkor för betalningssäkerhet.
----
-
-**Viktig information:**
+## Viktig information:
 
 * Detta är ett **hobbyprojekt**, och jag lämnar ingen formell garanti. Vänligen kontakta mig dock direkt om du stöter på problem med enheten eller monteringsprocessen.
 * **Lycka till och stor glädje** med din nya DEC-HEX Converter!
+* **Kontakt & Support**: Har du frågor om produkterna, koden eller behöver support med monteringen? Vänligen kontakta mig direkt på [OFDesignSWE@gmail.com](mailto:OFDesignSWE@gmail.com).
 
 /Oskar Fornander

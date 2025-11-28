@@ -6,7 +6,7 @@ This repository contains the firmware, hardware design, and comprehensive docume
 * [**Documentation in Swedish**](sv/README.md)
 * **Ready to Buy?** See the [**Ordering Guide**](ordering.md)
 
-## 💡 Key Features (Common to Both Models)
+## Key Features (Common to Both Models)
 
 The DEC–HEX Converter is built around a simple, tactile interface:
 
@@ -18,7 +18,7 @@ The DEC–HEX Converter is built around a simple, tactile interface:
 * **The Kit:** Delivered as a complete kit with a **custom-designed PCB**, all necessary components, and a **pre-programmed microcontroller**—ideal for excellent **soldering practice**.
 * **Customization:** The microcontroller is pre-programmed, but it can be **re-programmed**. The source code is available within this repository.
 
-## 🧰 The Two Models
+## Two Models
 
 The DEC–HEX Converter comes in two variants, catering to different preferences for display type and soldering complexity:
 
@@ -28,13 +28,13 @@ The DEC–HEX Converter comes in two variants, catering to different preferences
 * Features a **dedicated power switch** and a power-saving sleep mode.
 * *Involves more soldering.*
 
-### Model B: The Multi-Base Display
+### Model B: The LCD Multi-Base Display
 * Displays values on an **LCD (Liquid Crystal Display)**.
 * Converts between **Decimal**, **Hexadecimal**, and **Binary**.
 * **No power switch**; utilizes an ultra-low-power sleep mode and wakes up instantly when the knob is turned or pressed.
 * *Involves less soldering.*
 
-## 📂 Repository Contents
+## Repository Contents
 
 This repository is organized into specific directories for each model. All project files, documentation, and source code are provided below.
 

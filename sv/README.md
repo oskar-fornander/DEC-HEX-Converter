@@ -6,7 +6,7 @@ Denna *repository* innehåller *firmware*, *hardware-design* och komplett dokume
 * [**Documentation in English**](../README.md)
 * **Redo att köpa?** Se [**Beställningsguiden**](beställning.md)
 
-## 💡 Huvudfunktioner (Gemensamma för båda modellerna)
+## Huvudfunktioner (gemensamt för båda modellerna)
 
 DEC–HEX Converter är byggd kring ett enkelt och taktilt gränssnitt:
 
@@ -18,7 +18,7 @@ DEC–HEX Converter är byggd kring ett enkelt och taktilt gränssnitt:
 * **Byggsatsen:** Levereras som ett komplett kit med ett **specialdesignat kretskort (PCB)**, alla nödvändiga komponenter och en **förprogrammerad mikrokontroller** – idealiskt för **lödövning**.
 * **Anpassning:** Mikrokontrollern är förprogrammerad, men den kan **programmeras om**. Källkoden finns tillgänglig i denna *repository*.
 
-## 🧰 De Två Modellerna
+## Två modeller
 
 DEC–HEX Converter finns i två varianter, anpassade efter olika önskemål kring displaytyp och lödkomplexitet:
 
@@ -34,7 +34,7 @@ DEC–HEX Converter finns i två varianter, anpassade efter olika önskemål kri
 * **Ingen strömbrytare**; använder ett *extremt strömsnålt* viloläge och vaknar omedelbart när vredet vrids eller trycks in.
 * *Innebär mindre lödning*.
 
-## 📂 Repositoryts innehåll
+## Repositoryts innehåll
 
 Denna *repository* är organiserad i specifika kataloger för varje modell. Alla projektfiler, dokumentation och källkod tillhandahålls nedan.
 
@@ -69,7 +69,7 @@ Följande filer är unika för modellen med **LCD-display**:
 | **Kretsschema (PDF)** | Detaljerat *hardware* kretsschema. | [b\_schematic.pdf](../model_b/docs/b_schematic.pdf) |
 | **Bilder** | Foton på kretskort (fram/bak) och komponenter. | [images/](../model_b/images/) |
 
-### Allmänna Projektfiler (Rotkatalog)
+### Allmänna projektfiler (rotkatalog)
 
 | Fil | Beskrivning av innehåll | Sökväg (klicka för att se) |
 | :--- | :--- | :--- |
