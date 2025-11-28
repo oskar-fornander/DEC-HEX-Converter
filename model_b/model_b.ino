@@ -146,7 +146,7 @@ Text in LCD display (text to LCD is sent via I2C protocol) (2 x 16 characters):
 
 
 //#### Constants and variables for sleep #########
-#define WAIT_FOR_SLEEP 3000 //number of ms to wait from last action before going to sleep
+#define WAIT_FOR_SLEEP 20000 //number of ms to wait from last action before going to sleep
 #define WAKE_UP_DELAY 1000 //1 second
 unsigned long lastTimeActive = 0; //Stores the time millis() after the last activity, to check for millis() - lastTimeActive > WAIT_FOR_SLEEP
 unsigned long wakeUpTime = -WAKE_UP_DELAY; //millis() when woken up. Used to ignore rotation of the rotary encoder for a moment after wake up. Set to negative value to ignore this at startup and reset.
