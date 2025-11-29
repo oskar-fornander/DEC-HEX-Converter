@@ -11,7 +11,7 @@ Vill du ha ett smidigt sätt att konvertera mellan decimala och hexadecimala vä
 - Ingen strömbrytare; enheten går själv i viloläge med mycket låg strömförbrukning efter en stunds inaktivitet. Väck enheten genom att virda på ratten eller trycka för att nollställa.
 - Drivs av 4 AAA-batterier. Aktiv tid mer än 25 timmar.
 - Hjärnan är en ATtiny85/45.
-- 3D-printad inbyggnadslåda.
+- 3D-printad inbyggnadslåda (116mm x 82mm x 38mm).
 - Kommer som en byggsats med noggrant utvalda delar, förprogrammerad mikrokontroller och specialdesignad pcb – enkel montering och en god övning för att löda.
 - Mikrokontrollern (ATtiny85/45) är förprogrammerad men kan också programmeras om.
 - Levereras med alla komponenter välsorterade och packeterade i en kartong.

@@ -11,7 +11,7 @@ Vill du ha ett smidigt sätt att konvertera mellan decimala och hexadecimala vä
 - Drivs av **3 AAA-batterier**. Aktiv tid **mer än 10 timmar**.
 - **Automatiskt viloläge** efter ett par minuters inaktivitet för att spara på batterierna: displayen blinkar i intervaller för att påminna dig om att stänga av den.
 - Hjärnan är **mikrokontrollern ATtiny85/45** och skiftregister används för att skicka data till displayerna.
-- Monteras i en **3D-printad inbyggnadslåda**.
+- Monteras i en **3D-printad inbyggnadslåda** (172mm x 75mm x 38mm).
 - Kommer som en byggsats med noggrant utvalda delar, **förprogrammerad mikrokontroller** och **specialdesignad pcb** – enkel montering och en god övning för att löda.
 - Mikrokontrollern (ATtiny85/45) är förprogrammerad men kan också **programmeras om**. Koden finns tillgänglig på GitHub.
 - Levereras med alla komponenter välsorterade och packeterade i en kartong.

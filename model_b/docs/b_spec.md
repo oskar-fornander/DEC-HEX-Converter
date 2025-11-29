@@ -11,7 +11,7 @@ Looking for a sleek, physical device to quickly convert between decimal and hexa
 * **No power switch**; the unit automatically enters an **ultra-low-power sleep mode** after a period of inactivity. Wake the unit up by rotating the knob or pressing to reset.
 * Powered by **4 AAA batteries**. Provides over **25 hours of active use**.
 * The brain is an **ATtiny85/45 microcontroller**.
-* Comes with a **3D-printed enclosure**.
+* Comes with a **3D-printed enclosure** (116mm x 82mm x 38mm).
 * Delivered as a complete kit with carefully selected, high-quality components, a **pre-programmed microcontroller**, and a custom-designed **PCB**—making for simple assembly and excellent **soldering practice**.
 * The microcontroller (ATtiny85/45) is pre-programmed but can be **re-programmed**. The source code is available on GitHub.
 

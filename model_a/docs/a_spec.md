@@ -12,7 +12,7 @@ Looking for a sleek, physical device to quickly convert between decimal and hexa
 * Powered by **3 AAA batteries**. Provides over **10 hours of active use**.
 * **Automatic sleep mode** after a few minutes of inactivity to save battery life. The display will blink intermittently to remind you to power the unit off.
 * The brain is an **ATtiny85/45 microcontroller**, and shift registers are used to drive the displays.
-* Comes with a **3D-printed enclosure**.
+* Comes with a **3D-printed enclosure** (172mm x 75mm x 38mm).
 * Delivered as a complete kit with carefully selected, high-quality components, a **pre-programmed microcontroller**, and a custom-designed **PCB**—making for simple assembly and excellent **soldering practice**.
 * The microcontroller (ATtiny85/45) is pre-programmed but can be **re-programmed**. The source code is available on GitHub.
 
