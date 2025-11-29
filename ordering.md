@@ -9,7 +9,7 @@ All components are **well-sorted** and packaged securely in a box. Comprehensive
 ## Pricing
 
 * Model A: **599 SEK**
-* Model B: **649 SEK**
+* Model B: **699 SEK**
 
 Shipping within Sweden is handled by Postnord as a trackable package for **59 SEK**.
 
@@ -27,10 +27,9 @@ To place your order, please choose one of the options below:
 
 ## International Shipping & Duties
 
-* **Shipping Zones:** We currently ship to **Sweden**, the **Nordic countries**, and the **European Union (EU)**. For shipping outside these areas, please contact us for a quote.
+* **Shipping Zones:** I currently ship to **Sweden**, the **Nordic countries**, and the **European Union (EU)**. For shipping outside these areas, please contact me for a quote.
 * **Shipping Costs:** The shipping fee will be quoted in your confirmation email, based on your country.
 * **Customs and Taxes (Non-EU Customers):** All orders shipped **outside the EU** may be subject to import duties, customs taxes, and fees levied by the destination country. **The recipient is the importer of record and must comply with all laws and regulations of the destination country. All local duties, taxes, and fees are the responsibility of the customer.**
----
 
 ## Important Notes:
 
