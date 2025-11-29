@@ -2,16 +2,14 @@
 
 Ready to start building? You can buy a complete kit for this rewarding electronics project today!
 
-All components are **well-sorted** and packaged securely in a box. Comprehensive **documentation**, including assembly instructions and source code, is available here on GitHub. The units can also be purchased pre-assembled.
+All components are **well-sorted** and packaged securely in a box. Comprehensive **documentation**, including assembly instructions and source code, is available here on GitHub. 
 
 *Note: You can find detailed specifications for both Model A and Model B in the dedicated documentation pages on GitHub.*
 
 ## Pricing
 
-| Model | Kit Price | Pre-assembled Price |
-| :---: | :---: | :---: |
-| Model A | **599 SEK** | 1099 SEK (Kit + 500 SEK) |
-| Model B | **649 SEK** | 1149 SEK (Kit + 500 SEK) |
+* Model A: **599 SEK**
+* Model B: **649 SEK**
 
 Shipping within Sweden is handled by Postnord as a trackable package for **59 SEK**.
 
@@ -19,9 +17,8 @@ Shipping within Sweden is handled by Postnord as a trackable package for **59 SE
 
 To place your order, please choose one of the options below:
 
-1.  **Direct Email Order:** Send an email to [OFDesignSWE+order@gmail.com](mailto:OFDesignSWE+order@gmail.com?subject=Order%20for%3A%20DEC-HEX%20Converter%20Kit&body=%0D%0A%0D%0AModel%20(A%20or%20B)%3A%20%0D%0A%0D%0AAssembly%20(Kit%20or%20Pre-assembled)%3A%20%0D%0A%0D%0AQuantity%3A%20%0D%0A%0D%0AFull%20Name%20and%20Shipping%20Address%3A%20%0D%0A%0D%0AContact%20Information%20(email/phone)%3A%20%0D%0A%0D%0A) with the following information:
+1.  **Direct Email Order:** Send an email to [OFDesignSWE+order@gmail.com](mailto:OFDesignSWE+order@gmail.com?subject=Order%20for%3A%20DEC-HEX%20Converter%20Kit&body=%0D%0A%0D%0AModel%20(A%20or%20B)%3A%20%0D%0A%0D%0AQuantity%3A%20%0D%0A%0D%0AFull%20Name%20and%20Shipping%20Address%3A%20%0D%0A%0D%0AContact%20Information%20(email/phone)%3A%20%0D%0A%0D%0A) with the following information:
     * Which model(s) you wish to purchase (Model A, Model B, or both).
-    * Whether you want the kit or a pre-assembled unit.
     * Your full name and shipping address.
 
     I will reply with a confirmation and payment instructions. Payment will be made through PayPal; an invoice will be sent to your email. By paying this invoice, you are automatically covered by **PayPal's Buyer Protection**. I will ship the item as soon as payment is confirmed by PayPal. The fee for PayPal's Buyer Protection is included in the product price.
