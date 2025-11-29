@@ -4,7 +4,7 @@ Redo att börja bygga? Du kan köpa ett komplett kit till detta givande elektron
 
 Alla komponenter är **välsorterade** och säkert packade i en kartong. Omfattande **dokumentation**, inklusive monteringsanvisningar och källkod, finns tillgänglig här på GitHub.
 
-*Obs: Detaljerade specifikationer för både Modell A och Modell B hittar du på de dedikerade dokumentsidorna på GitHub.*
+*Obs: Detaljerade specifikationer för både Modell A och Modell B hittar du på deras respektive dokumentsidor på GitHub.*
 
 ## Priser
 
