@@ -54,7 +54,7 @@ Följande filer är unika för modellen med **sjusegmentdisplay**:
 | **Specifikation** | Detaljerad funktionslista och tekniska specifikationer för Modell A. | [a\_spec.md](a_beskrivning.md) |
 | **Komponentlista (BOM)** | Fullständig lista över alla nödvändiga komponenter. | [a\_parts_list.md](a_komponentlista.md) |
 | **Kretsschema (PDF)** | Detaljerat *hardware* kretsschema. | [a\_schematic.pdf](../model_a/docs/a_schematic.pdf) |
-| **Bilder** | Foton på kretskort (fram/bak) och komponenter. | [images/](../model_a/images/) |
+| **Bilder** | Foton på komponenter och den färdiga enheten. | [images/](../model_a/images/) |
 
 ### Modell B filer (`/model_b/`)
 
@@ -67,7 +67,7 @@ Följande filer är unika för modellen med **LCD-display**:
 | **Specifikation** | Detaljerad funktionslista och tekniska specifikationer för Modell B. | [b\_spec.md](b_beskrivning.md) |
 | **Komponentlista (BOM)** | Fullständig lista över alla nödvändiga komponenter. | [b\_parts_list.md](b_komponentlista.md) |
 | **Kretsschema (PDF)** | Detaljerat *hardware* kretsschema. | [b\_schematic.pdf](../model_b/docs/b_schematic.pdf) |
-| **Bilder** | Foton på kretskort (fram/bak) och komponenter. | [images/](../model_b/images/) |
+| **Bilder** | Foton på komponenter och den färdiga enheten. | [images/](../model_b/images/) |
 
 ### Allmänna projektfiler (rotkatalog)
 
