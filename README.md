@@ -55,6 +55,7 @@ The following files are unique to the **seven-segment display** model:
 | **Parts List** | Full Bill of Materials (BOM) listing all included components. | [a\_parts\_list.md](model_a/docs/a_parts_list.md) |
 | **Schematics (PDF)** | Detailed hardware circuit diagram. | [a\_schematic.pdf](model_a/docs/a_schematic.pdf) |
 | **Images** | Photos of the parts and the assembled unit. | [images/](model_a/images/) |
+| **3D files** | Files for 3D-printing the enclosure. | [3d_model/](model_a/3d_model/) |
 
 ### Model B Files (`/model_b/`)
 
@@ -68,6 +69,7 @@ The following files are unique to the **LCD multi-base display** model:
 | **Parts List** | Full Bill of Materials (BOM) listing all included components. | [b\_parts\_list.md](model_b/docs/b_parts_list.md) |
 | **Schematics (PDF)** | Detailed hardware circuit diagram. | [b\_schematic.pdf](model_b/docs/b\_schematic.pdf) |
 | **Images** | Photos of the parts and the assembled unit. | [images/](model_b/images/) |
+| **3D files** | Files for 3D-printing the enclosure. | [3d_model/](model_b/3d_model/) |
 
 ### General Project Files
 
