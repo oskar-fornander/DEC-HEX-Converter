@@ -7,10 +7,10 @@
 
 
 //    DEC-HEX Converter, Oskar Fornander, July-October 2025
-//    ATtiny85/45, seven segment displays or LCD and a rotary encoder, driven by 3xAAA/AA-batteries.
+//    ATtiny85/45, seven segment displays or LCD and a rotary encoder, driven by 3 or 4 AAA-batteries.
 //    Power consumption on average is about 70mA (~21 segments on). With AAA-batteries at 1000mAh it can be on for about 14 hours.
 //      Model A: Shift registers (74HC595) and seven segment displays, with power button.
-//      Model B: LCD-display with I2C-module. No power button(?)
+//      Model B: LCD-display with I2C-module. No power button.
 //    This device will simultaneously count in decimal (0-255) and hexadecimal (00-FF) and in that way work as a converter between the two bases.
 //    The code is optimized for speed, efficient use of memory and low power consumption on the ATtiny85 or ATtiny45, running at 8MHz.
 //    

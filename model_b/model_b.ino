@@ -6,7 +6,7 @@
 //
 //
 //    DEC-HEX Converter, Oskar Fornander, July-October 2025
-//    ATtiny85/45, seven segment displays or LCD and a rotary encoder, driven by 3xAAA/AA-batteries.
+//    ATtiny85/45, seven segment displays or LCD and a rotary encoder, driven by 3 or 4 AAA-batteries.
 //      Model A: Shift registers (74HC595) and seven segment displays, with power button.
 //      Model B: LCD-display with I2C-module. No power button; enters sleep mode after being inactive a few moments.
 //    This device will simultaneously count in decimal (0-255) and hexadecimal (00-FF) and in that way work as a converter between the two bases.
@@ -14,22 +14,17 @@
 //    
 //    This file contains code for model B:
 //      The device has no power button but is put to sleep after a time of inactivity. The last state of the counter is recovered when the device is woken with a turn on the rotary encoder knob (but reset when the knob is pushed).
-//      Power consumption: ~25mA (active), <1uA (sleeping). With 3 AAA-batteries at 1000mAh the device can be active for about 36 hours and sleeping for a very long time.
+//      Power consumption: ~25mA (active), <10uA (sleeping). With 4 AAA-batteries at 1000mAh the device can be active for about 36 hours and sleeping for a very long time.
 
-
-//Ideas to implement some day ... maybe:
-  //Better error-handling!
-  //Make it not turn off the LCD when resetting? - not really possible ...
-  //Add feature to only update the changed digits and not the whole numbers on LCD???
 
 /*
 How does model B work?
   Start by pressing knob or rotating, last displayed value is shown.
   Rotate knob to increase/decrease value shown as decimal and hexadecimal.
   Press knob to reset the counter to 0 - by restarting the ATtiny85 using RESET pin.
-  Go to sleep after being inactive for some time. (no power button)
+  Go to sleep after being inactive for some time (no power button).
   Power to LCD is controlled by mcu via a transistor.
-  Let mcu wake up by interrupt on both A and B (at least one of them).
+  Let mcu wake up by interrupt from the rotary encoder.
 
 
 
