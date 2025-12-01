@@ -15,15 +15,7 @@ Shipping within Sweden is handled by Postnord as a trackable package for **59 SE
 
 ## How to Order
 
-To place your order, please choose one of the options below:
-
-1.  **Direct Email Order:** Send an email to [OFDesignSWE+order@gmail.com](mailto:OFDesignSWE+order@gmail.com?subject=Order%20for%3A%20DEC-HEX%20Converter%20Kit&body=%0D%0A%0D%0AModel%20(A%20or%20B)%3A%20%0D%0A%0D%0AQuantity%3A%20%0D%0A%0D%0AFull%20Name%20and%20Shipping%20Address%3A%20%0D%0A%0D%0AContact%20Information%20(email/phone)%3A%20%0D%0A%0D%0A) with the following information:
-    * Which model(s) you wish to purchase (Model A, Model B, or both).
-    * Your full name and shipping address.
-
-    I will reply with a confirmation and payment instructions. Payment will be made through PayPal; an invoice will be sent to your email. By paying this invoice, you are automatically covered by **PayPal's Buyer Protection**. I will ship the item as soon as payment is confirmed by PayPal. The fee for PayPal's Buyer Protection is included in the product price.
-
-2.  **Purchase via TRADERA:** You can also find my listings and complete the purchase directly through Tradera. Purchases made through Tradera are covered by Tradera's Buyer Protection and shipping system, but a markup is applied to the price to cover the platform's fees. **Therefore, direct ordering is cheaper.**
+To purchase your own DEC-HEX Converter kit, visit Tradera.com (search for DEC-HEX Converter on the site). Purchases made through Tradera are covered by Tradera's Buyer Protection and shipping system.
 
 ## International Shipping & Duties
 
