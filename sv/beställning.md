@@ -11,7 +11,7 @@ Alla komponenter är **välsorterade** och säkert packade i en kartong. Omfatta
 * Modell A: **599 SEK**
 * Modell B: **699 SEK**
 
-Frakt inom Sverige sker som spårbart paket med Postnord för **59 SEK**.
+Fraktavgift tillkommer. Se mer om beställning nedan.
 
 ## Så beställer du
 
