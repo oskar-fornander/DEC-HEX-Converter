@@ -15,7 +15,7 @@ Shipping cost will be added to the price. See below on how to order.
 
 ## How to Order
 
-To purchase your own DEC-HEX Converter kit, visit Tradera.com (search for DEC-HEX Converter on the site). Purchases made through Tradera are covered by Tradera's Buyer Protection and shipping system.
+The DEC-HEX Converter kits are available to purchase on other sale platform. No links here, search for DEC-HEX Converter.
 
 ## Important Notes:
 

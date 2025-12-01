@@ -15,7 +15,7 @@ Fraktavgift tillkommer. Se mer om beställning nedan.
 
 ## Så beställer du
 
-För att köpa din egen DEC-HEX Converter byggsats, besök Tradera.com (sök efter DEC-HEX Converter, två annonser). Köp genom Tradera täcks av deras köpskydd och frakthantering.
+Du kan köpa din egen DEC-HEX Converter byggsats på extern säljplattform. Inga länkar här; sök efter DEC-HEX Converter.
 
 ## Viktig information:
 
