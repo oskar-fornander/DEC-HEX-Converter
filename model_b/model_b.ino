@@ -19,9 +19,9 @@
 
 /*
 How does model B work?
-  Start by pressing knob or rotating, last displayed value is shown.
-  Rotate knob to increase/decrease value shown as decimal and hexadecimal.
-  Press knob to reset the counter to 0 - by restarting the ATtiny85 using RESET pin.
+  Start by rotating the knob (last displayed value is shown) or pressing it (the unit is reset).
+  Rotate the knob to increase/decrease value shown as decimal and hexadecimal as well as binary.
+  Press the knob to reset the counter to 0 (by restarting the ATtiny85 using RESET pin).
   Go to sleep after being inactive for some time (no power button).
   Power to LCD is controlled by mcu via a transistor.
   Let mcu wake up by interrupt from the rotary encoder.
@@ -31,9 +31,7 @@ How does model B work?
 Connections to the ATtiny85:
 
 // Rotary Encoder: 3 pins (A, B + RESET)
-// LCD (I2C): 3 pins (SDA, SCL, VCC)
-
-// LCD 1602 with I2C connection: 2 lines of 16 characters
+// LCD (I2C): 3 pins (SDA, SCL, VCC), LCD 1602 with I2C connection: 2 lines of 16 characters
 
 pin  Arduino pin type            connection
 ----|-----------|---------------|--------------
