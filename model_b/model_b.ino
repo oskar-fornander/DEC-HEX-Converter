@@ -178,7 +178,7 @@ void setup() {
   DDRB &= ~(1 << PIN_DISPLAY_DATA);
 
   //Pins for Rotary encoder (push button is connected to reset pin)
-  pinMode(PIN_ROTARY_ENCODER_A, INPUT_PULLUP); //Internal and external pullup resistors
+  pinMode(PIN_ROTARY_ENCODER_A, INPUT_PULLUP); //Internal pullup resistors
   pinMode(PIN_ROTARY_ENCODER_B, INPUT_PULLUP);
   //Using polling instead of interrupt for changing the counter with the rotary encoder. But interrupts are used to wake the mcu up from sleep.
 

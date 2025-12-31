@@ -7,7 +7,7 @@
 
 
 //    DEC-HEX Converter, Oskar Fornander, July-October 2025
-//    ATtiny85/45, seven segment displays or LCD and a rotary encoder, driven by 3 or 4 AAA-batteries.
+//    ATtiny85/45, seven segment displays or LCD and a rotary encoder, driven by 3xAA/AAA-batteries.
 //    Power consumption on average is about 70mA (~21 segments on). With AAA-batteries at 1000mAh it can be on for about 14 hours.
 //      Model A: Shift registers (74HC595) and seven segment displays, with power button.
 //      Model B: LCD-display with I2C-module. No power button.
@@ -126,7 +126,7 @@ void setup() {
                    //This operation, resetDisplay(), takes <100us. The whole upstart sequence, from releasing RESET-button until device is on and displays are reset, takes <100ms (measured to approximately 75ms).
 
   //Pins for Rotary encoder (push button is connected to reset pin)
-  pinMode(PIN_ROTARY_ENCODER_A, INPUT_PULLUP); //Internal and external pullup resistors
+  pinMode(PIN_ROTARY_ENCODER_A, INPUT_PULLUP); //Internal pullup resistors
   pinMode(PIN_ROTARY_ENCODER_B, INPUT_PULLUP);
   //Using polling instead of interrupt. // attachInterrupt(0, rotationDetected, FALLING); //Attach an interrupt service routine to the rotary encoder pin A on falling edge. A must be connected to PB2 (pin 7) for INT0
 

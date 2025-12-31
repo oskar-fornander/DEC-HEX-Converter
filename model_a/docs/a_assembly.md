@@ -14,7 +14,7 @@ Start by soldering components flush to the PCB, typically from shortest to talle
 
 * **Decoupling Capacitors (100nF, 6pcs):** These small ceramic capacitors should be soldered first. This is critical for clearance, as they must fit beneath the subsequent IC sockets.
 * **IC Sockets (five DIP-16 and one DIP-8):** Solder the sockets for the ATtiny85/45 and the shift registers 74HC595. Pay attention to the notch (orientation marker) on the socket; it must match the marker printed on the PCB. Ensure the decoupling capacitors are soldered before this step.
-* **Resistors:** Solder the resistors, following the PCB markings for their values (check the Parts List for color codes if unsure).
+* **Resistors:** Solder the resistors, following the PCB markings for their values (check the Parts List for color codes if unsure). Note: skip the two pull up resistors for the rotary encoder, according to markings in the image and schematics.
 * **Capacitors, diode and transistor:** Solder the rest of the smaller components in place according to their values. Ensure the transistor, diode, and electrolytic capacitor are placed with the correct orientation/polarity. Refer to the PCB markings (e.g., diode stripe, capacitor negative leg).
 * **Power Switch and Battery Box:** Solder the wires of the dedicated ON/OFF switch and battery box, either directly to the pcb or on pin headers.
 * **7-Segment Displays:** Insert and solder the five 7-segment displays. Ensure they are placed flat against the PCB and in the correct orientation.

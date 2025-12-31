@@ -12,7 +12,7 @@ Se [**Komponentlista**](b_komponentlista.md) (namn och antal) för att korrekt i
 
 Börja med att löda komponenterna platt mot kretskortet, lämpligen från de lägsta till de högsta.
 
-* **Motstånd:** Löda motstånden, följ markeringarna på kretskortet för deras värden (kontrollera komponentlistan för färgkoder om du är osäker).
+* **Motstånd:** Löda motstånden, följ markeringarna på kretskortet för deras värden (kontrollera komponentlistan för färgkoder om du är osäker). OBS: hoppa över de båda pull up-resistorerna för rotationsenkodern enligt bild och kopplingsdiagram.
 * **Kondensatorer:** Löda de keramiska kondensatorerna enligt deras värden. Löda elektrolytkondensatorn och säkerställ att den placeras med korrekt orientering/polaritet enligt kretskortets markeringar. Denna kan vinklas ner mot kretskortet för att ta mindre plats på höjden.
 * **Transistor och LDO-regulator**: Löda Transistor och LDO-regulatorn på respektive plats. Notera att de båda använder liknande kapslar; jämför beteckningarna på komponenterna för att skilja dem åt och säkerställ rätt orientering.
 * **IC-sockel (DIP-8):** Löda sockeln för mikrokontrollern (ATtiny85/45). Var uppmärksam på orienteringsmarkeringen på sockeln; den måste matcha markeringen tryckt på kretskortet. 

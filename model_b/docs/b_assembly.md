@@ -12,7 +12,7 @@ Refer to the [**Parts List**](b_parts_list.md) (name and number of pieces) to co
 
 Start by soldering components flush to the PCB, typically from shortest to tallest.
 
-* **Resistors:** Solder the resistors, following the PCB markings for their values (check the Parts List for color codes if unsure).
+* **Resistors:** Solder the resistors, following the PCB markings for their values (check the Parts List for color codes if unsure). Note: skip the two pull up resistors for the rotary encoder, according to markings in the image and schematics.
 * **Capacitors:** Solder the ceramic capacitors according to their values. Solder the electrolytic capacitor and ensure it is placed with the correct orientation/polarity according to the PCB markings. This capacitor can be angled down toward the PCB to save vertical space.
 * **Transistor and LDO Regulator:** Solder the Transistor and LDO regulator into their respective positions. Note that they both use similar packages; compare the markings on the components to differentiate them and ensure correct orientation.
 * **IC Socket (DIP-8):** Solder the socket for the ATtiny85/45 microcontroller. Pay attention to the notch (orientation marker) on the socket; it must match the marker printed on the PCB.
