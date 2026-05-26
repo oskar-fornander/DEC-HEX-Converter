@@ -12,7 +12,7 @@ Looking for a sleek, physical device to quickly convert between decimal and hexa
 * Powered by **4 AAA batteries**. Provides over **25 hours of active use**.
 * The brain is an **ATtiny85/45 microcontroller**.
 * Comes with a **3D-printed enclosure** (116mm x 82mm x 38mm).
-* Delivered as a complete kit with carefully selected, high-quality components, a **pre-programmed microcontroller**, and a custom-designed **PCB**—making for simple assembly and excellent **soldering practice**.
+* Delivered as a complete kit with carefully selected, high-quality components, a **pre-programmed microcontroller**, and a custom-designed **PCB**—making for simple assembly and excellent **soldering practice**. PCB prototypes for the current revision were kindly sponsored by PCBWay.
 * The microcontroller (ATtiny85/45) is pre-programmed but can be **re-programmed**. The source code is available on GitHub.
 
 *Read more in [**ordering.md**](../../ordering.md) for pricing and how to order your own kit.*

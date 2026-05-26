@@ -3,7 +3,7 @@
 Detta är innehållet i byggsatsen för **DEC-HEX Converter, model B**.
 
 - [ ] 3D-printat hölje (1st)
-- [ ] Specialdesignad PCB (1st)
+- [ ] Specialdesignad PCB (1st) - PCB sponsrad av PCBWay
 - [ ] Skruvar M3 (6st)
 - [ ] Skruvar M4 (2st)
 - [ ] 3D-printad distansbricka M3 2mm (2st)
@@ -23,6 +23,6 @@ Detta är innehållet i byggsatsen för **DEC-HEX Converter, model B**.
 - [ ] Kondensator (keramisk) 100nF (1st)
 - [ ] Kondensator (keramisk) 10nF (103 beige) (2st)
 - [ ] Motstånd 1kΩ (1st) (brown-black-red)
-- [ ] Motstånd 10kΩ (5st) (brown-black-orange)
+- [ ] Motstånd 10kΩ (3st) (brown-black-orange)
 - [ ] Motstånd 100kΩ (1st) (brown-black-yellow)
 

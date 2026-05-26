@@ -3,7 +3,7 @@
 This is the content of the kit for **DEC-HEX Converter, model B**.
 
 - [ ] 3D printed enclosure (1pc)
-- [ ] Custom designed PCB (1pc)
+- [ ] Custom designed PCB (1pc) - PCB sponsored by PCBWay
 - [ ] Screw M3 (6pcs)
 - [ ] Screw M4 (2pcs)
 - [ ] 3D-printed spacer M3 2mm (2pcs)
@@ -23,6 +23,6 @@ This is the content of the kit for **DEC-HEX Converter, model B**.
 - [ ] Capacitor (ceramic) 100nF (1pc)
 - [ ] Capacitor (ceramic) 10nF (103 beige) (2pcs)
 - [ ] Resistor 1kΩ (1pc) (brown-black-red)
-- [ ] Resistor 10kΩ (5pcs) (brown-black-orange)
+- [ ] Resistor 10kΩ (3pcs) (brown-black-orange)
 - [ ] Resistor 100kΩ (1pc) (brown-black-yellow)
 

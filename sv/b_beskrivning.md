@@ -12,7 +12,7 @@ Vill du ha ett smidigt sätt att konvertera mellan decimala och hexadecimala vä
 - Drivs av 4 AAA-batterier. Aktiv tid mer än 25 timmar.
 - Hjärnan är en ATtiny85/45.
 - 3D-printad inbyggnadslåda (116mm x 82mm x 38mm).
-- Kommer som en byggsats med noggrant utvalda delar, förprogrammerad mikrokontroller och specialdesignad pcb – enkel montering och en god övning för att löda.
+- Kommer som en byggsats med noggrant utvalda delar, förprogrammerad mikrokontroller och specialdesignad pcb – enkel montering och en god övning för att löda. PCB-prototyper för denna modell har sponsrats av PCBWay.
 - Mikrokontrollern (ATtiny85/45) är förprogrammerad men kan också programmeras om.
 - Levereras med alla komponenter välsorterade och packeterade i en kartong.
 
