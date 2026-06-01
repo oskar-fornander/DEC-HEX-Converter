@@ -86,4 +86,6 @@ The following files are unique to the **LCD multi-base display** model:
 
 > **A Note on Guarantees:** This is a hobby project. While I strive for high quality, I offer no formal guarantee. Please contact me directly if you encounter any issues with the unit or assembly process.
 
+> **Sponsorship:** PCB prototypes for DEC-HEX-BIN Converter Model B were kindly sponsored by PCBWay.
+
 /Oskar Fornander
